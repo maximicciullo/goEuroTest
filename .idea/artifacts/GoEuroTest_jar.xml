@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoEuroTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GoEuroTest_jar</output-path>
+    <root id="archive" name="goEuro.jar">
+      <element id="module-output" name="goEuro" />
+    </root>
+  </artifact>
+</component>
